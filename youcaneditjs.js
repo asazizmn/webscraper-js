@@ -4,7 +4,7 @@
  *  - captures 'Product Name', 'Specifications (names and values)', 'SessionId' details
  *  - sends captured data to a back-end application and displays the response
  *  
- *  Aziz | 16 Jul 2017 | VeAsia Client-side – server-side Assessment
+ *  Aziz | 16 Jul 2017 | WebScraper JS - Client-side & Server-side – Demo
  */
 
 

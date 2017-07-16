@@ -7,7 +7,7 @@
  *  ... that in order for the project to work properly ...
  *  ... this server code must be executed (i.e. 'node index.js') beforehand
  *  
- *  Aziz | 16 Jul 2017 | VeAsia Client-side – server-side Assessment
+ *  Aziz | 16 Jul 2017 | WebScraper JS - Client-side & Server-side – Demo
  */
 
 
